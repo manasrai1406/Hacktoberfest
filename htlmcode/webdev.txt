@@ -1,0 +1,26 @@
+!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> Shubhi's Personal site</title>
+   <link rel="stylesheet" href="css/Styles.css">
+
+
+  </head>
+  <body>
+    <img src="https://preview.redd.it/5unn16axx1v81.jpg?auto=webp&s=7a49ac2def6b301ee91637fb6062b1ba4d0b77ac" alt="Cat">
+    <h1>Shubhi's Personal site</h1>
+    <h3><em>I'm an <strong><a href="https://www.collinsdictionary.com/dictionary/english/engineering-student">Engineering student</a></strong</em></h3>
+
+    <hr>
+    <h3><em>I have studied from Carmel Girl's Inter College , Gorakhpur.
+    And currently persuing my B-Tech from  KIET Ghaziabad.</em></h3>
+
+
+
+
+
+
+
+  </body>
+</html>
